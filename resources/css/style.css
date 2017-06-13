@@ -49,6 +49,7 @@ a {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
+  font-weight: bold;
 }
 
 .footer {
@@ -56,4 +57,6 @@ a {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
+  white-space: nowrap;
 }
